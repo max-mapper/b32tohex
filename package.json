@@ -11,5 +11,17 @@
   "license": "ISC",
   "dependencies": {
     "base32-decode": "^0.1.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxogden/b32tohex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maxogden/b32tohex/issues"
+  },
+  "homepage": "https://github.com/maxogden/b32tohex#readme"
 }
