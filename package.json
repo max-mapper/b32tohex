@@ -1,6 +1,6 @@
 {
   "name": "b32tohex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli to convert base32 strings (RFC3548) into hex encoded strings",
   "main": "index.js",
   "bin": {
